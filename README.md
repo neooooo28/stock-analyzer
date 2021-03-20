@@ -32,7 +32,7 @@ http://127.0.0.1:8000/
 
 User gets to choose stock ticker from the dropdown, press `PLOT` then the app will load the stock chart on the right and a table that includes summary statistics about the ticker. 
 
-![](https://github.com/UC-Berkeley-I-School/mids-w200-sp21-Jericho-VillarealREPO/blob/master/SUBMISSIONS/project_1/assets/demo_chart.png)
+![](https://github.com/neooooo28/stock-analyzer/blob/main/assets/demo_chart.png)
 
 ## Credits
 Live and historical stock data is from [Yahoo! Finance](https://pypi.org/project/yfinance/). 
