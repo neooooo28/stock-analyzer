@@ -36,4 +36,4 @@ User gets to choose stock ticker from the dropdown, press `PLOT` then the app wi
 
 ## Credits
 1. Live and historical stock data is from [Yahoo! Finance](https://pypi.org/project/yfinance/). 
-2. Huge inspiration on Plotly and CSS come from a tutorial from [STATWORX Blog by Alexander Blaufuss](https://www.statworx.com/en/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)
+2. Frontend inspiration on Plotly and CSS come from a tutorial by [STATWORX Blog by Alexander Blaufuss](https://www.statworx.com/en/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)
